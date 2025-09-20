@@ -1,5 +1,9 @@
-# nCalculator-1.0-for-kids-win11
-Kid-friendly calculator with colorful gradient buttons, keyboard support, and error handling. Responsive design for all devices. Simple, intuitive interface for children. Built with HTML, CSS, JavaScript.
+nCalculator-1.0-for-kids-win11
+A colorful, kid-friendly calculator designed to make math fun and accessible for children!
+
+GitHub license
+
+📌 Overview
 nCalculator-1.0-for-kids-win11 is a visually engaging calculator built specifically for children. With bright colors, large buttons, and a simple interface, it helps kids learn math concepts in a fun way. The app runs natively on Windows 11 and is built with standard web technologies (HTML, CSS, JavaScript).
 
 ✨ Features
